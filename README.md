@@ -123,9 +123,7 @@ MIT License - 查看 [LICENSE](LICENSE) 获取详情。
 
 # Headscale SaaS - Scalable Tailscale Control Server as a Service
 
-![Headscale SaaS Architecture](https://via.placeholder.com/800x400?text=Headscale+SaaS+Architecture)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/headscale-saas/ci.yml)](https://github.com/your-username/headscale-saas/actions)
 
 ## 🌐 Overview
 
@@ -242,3 +240,14 @@ Issues and PRs are welcome! Please follow the [Contributing Guide](CONTRIBUTING.
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
+
+![节点1](images/h1.png)
+
+![节点2](images/h2.png)
+
+![用户](images/user.png)
+
+![keys](images/keys.png)
+
+![nodes](images/nodes.png)
