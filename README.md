@@ -183,8 +183,8 @@ Clients:
 
 ### Prerequisites
 
-- PostgreSQL 12+ (HA setup recommended)
-- Go 1.21+
+- PostgreSQL 13+ (HA setup recommended)
+- Go 1.24+
 - Docker / Kubernetes (optional)
 
 ### Deployment Steps
