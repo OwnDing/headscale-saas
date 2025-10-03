@@ -1,0 +1,11 @@
+version: '3.7'
+
+services: 
+  headscale-nginx:
+    image: 61.130.105.158:5080/library/nginx:1.26.2
+    ports:
+      - "8081:8081"
+      - "8082:8082"
+    volumes:
+      - /home/ubuntu/doc/headscale/nginx.conf:/etc/nginx/nginx.conf
+    restart: always
